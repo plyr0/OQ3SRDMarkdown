@@ -28,4 +28,6 @@ SRD Markdown version
 
 V.1.2 INITIAL RELEASE 2024.04.02 by plyr0
 
+Made with [word-to-markdown](https://github.com/benbalter/word-to-markdown), Markdown Monster, Libre Office
+
 ![Made with Open Quest](Made%20With%20OQ%20Logo.png)
