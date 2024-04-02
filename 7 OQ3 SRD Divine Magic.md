@@ -217,7 +217,7 @@ Like Transcended Sorcerers, Ascension is the pinnacle and ultimate goal of a cha
 ***Summary of Religion Ranks***
 
 | Rank | Minimum Religion (+other requirements) | Growth Cost | Benefits |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Lay member | 20 % | 0 | Learn spells from the religion's Personal Magic at magnitude 1-2. |
 | Initiate | 40 % (One of the religion's skills at 25%) | 2 | Learn spells from the religion's Personal Magic at unlimited magnitude.Learn spells from the religion's Divine at magnitude 1-2. Religion pays ransom if captured. |
 | Priest | 75 % (Two of the religion's skills at 75%) | 5 | Learn spells from Personal Magic and Divine Magic at unlimited magnitude. Religion pays ransom if captured. Gain the religion's Allied Spirit. |
