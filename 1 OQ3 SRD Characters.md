@@ -2,8 +2,6 @@
 
 ## Character Generation
 
-* * *
-
 OpenQuest character generation is a seven-step process and, at each step, the player makes decisions about what their character is like at the beginning of the game, when the character is just starting on their adventuring career.
 
 ### Character Concept
@@ -282,8 +280,6 @@ Finally, if you haven't done so already, write the character's name on the chara
 
 ## Non-human adventurers (Optional)
 
-* * *
-
 With the Referee's permission, your character may be one of the creatures found in the Creatures chapter.
 
 Use the random method to determine characteristics and roll the dice.
@@ -297,8 +293,6 @@ Make a note of the special abilities, traits, movement rates, natural armour and
 Then determine skills and magic as normal, perhaps using the weapons and skills on the creature description which depict an average member of the species as a guide.
 
 ## Ready-Made Concepts
-
-* * *
 
 Ready-made concepts give quick ideas for players who are struggling to decide which skills and magic to choose.
 
@@ -333,8 +327,6 @@ Personal Magic: Coordination 2, Protection 2, Second Sight [2].
 Equipment: Scholar's robes over leather armour, staff or dagger, and sling & stones.
 
 ## Character Growth
-
-* * *
 
 As characters go on Quests, they grow and improve. In the game, this can be one of the tangible goals for the players.
 
