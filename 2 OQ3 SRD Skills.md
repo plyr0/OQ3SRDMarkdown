@@ -441,4 +441,3 @@ If they roll a critical, they find they have more than enough disposable income 
 | 100% | Rich | Kings, powerful Nobles. | As above but more so. Supports a large entourage as well as extended family, who all depend upon ruler for their extravagant lifestyle. | Custom made plate mail and weapons. Regularly holds feasts for the entire court. They have an entourage of 3-18 hangers-on, a bodyguard of 2-12 warriors, 50+ servants. | A palace/castle with space for their family, hangers-on and staff. |
 | Beyond 100% (outside of normal ranking) | Super Rich | Emperors. | Lives in a constant state of opulent extravagance. | Armour custom made with gold leaf decoration, weapons encrusted with jewels. | A grand palace complex which is the size of a small city, often within the walls of a larger outer city. |
 
-#

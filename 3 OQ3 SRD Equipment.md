@@ -262,3 +262,4 @@ _Waterskin:_ A waterskin can hold enough water to sustain an adventurer for two 
 | Food & Drink, Average, 1 Day | 5 CP |
 | Food & Drink, Superior, 1 day | 2 SP |
 | Trail Rations, 1 Day | 5 CP |
+

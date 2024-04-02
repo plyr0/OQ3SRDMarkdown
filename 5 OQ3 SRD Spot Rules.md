@@ -353,3 +353,4 @@ _Evade._ If the Sailing test succeeds, the opponent cannot use the broadside, ra
 _Ram._ The other vessel is rammed if an opposed Sailing test succeeds. A ramming attack does D6 points of damage per mast. If the ship performing this manoeuvre lacks a battering ram, it also takes half the damage inflicted.
 
 _Boarding._ Boarding is possible if an opposed Sailing test succeeds. In this case, the vessels are roped together, and boarding can commence. A free Sailing test for boarding is allowed immediately after a successful ramming manoeuvre if desired. If both vessels want to board the other, this is automatic.
+

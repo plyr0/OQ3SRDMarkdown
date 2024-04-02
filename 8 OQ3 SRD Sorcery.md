@@ -598,3 +598,4 @@ This spell does not treat disease or poison. See Remove Disease and Poison Antid
 Resist (Resilience Special), Touch
 
 This spell infuses the target's body with a magical poison. The potency of the poison is equal to the spell's magnitude x 5, takes effect instantly, and does damage equal to the magnitude per combat round for the spell's duration. The target may resist the poison with a Resilience test.
+

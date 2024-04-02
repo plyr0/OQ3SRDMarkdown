@@ -573,9 +573,7 @@ This spell causes the target to lose contact with reality and become a gibbering
 | Target's Persistence Test | Effect |
 | --- | --- |
 | Target fumbles Persistence test | Victim instantly loses 1D4 INT permanently and lapses into a catatonic state for minutes equal to 20 minus its POW (minimum of one combat round). |
-| Target fails Persistence test | Victim gibbers and raves uncontrollably for combat rounds equal to 20 minus its POW (minimum of one combat round).
-The victim will perform random combat actions during this period.
-Roll 1D6.Move to close combat attack a random target. Run in a random direction (Roll 1D12 as clock face to determine direction). Cast a spell at a random target.Use ranged attack against a random target. Shout at a random target. Change stance. |
+| Target fails Persistence test | Victim gibbers and raves uncontrollably for combat rounds equal to 20 minus its POW (minimum of one combat round). The victim will perform random combat actions during this period. Roll 1D6.Move to close combat attack a random target. Run in a random direction (Roll 1D12 as clock face to determine direction). Cast a spell at a random target.Use ranged attack against a random target. Shout at a random target. Change stance. |
 | Target succeeds Persistence test | The victim is shaken and disturbed, suffering a –20% penalty to all skill tests for combat rounds equal to 20 minus its POW (minimum of one combat round). |
 | Target critically succeeds Persistence test | The victim is unaffected by the spell and cannot be affected by further Madness spells for combat rounds equal to its POW. |
 
@@ -859,3 +857,4 @@ If the whirlwind hits a character, make a Dodge roll to avoid being caught up in
 | 1-2 | The character is carried up 1D10 metres (if already at the top, blown out of the whirlwind the additional height before falling to earth (taking damage). |
 | 3-4 | Stay at the height they are. |
 | 5-6 | Fall 1D6 down in the vortex. If this takes them to the ground, they take falling damage. |
+

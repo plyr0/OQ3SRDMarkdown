@@ -458,3 +458,4 @@ Suppose characters change religions or even magic path. In that case, they may w
 Characters may do this during downtime between adventures. The player describes how their character is spending time unlearning the spell and then, as long as they have a teacher or source of the new spell, they can learn it. Also, extra growth points from the character's current pool are added to the growth points freed up by unlearning the spell, to make up the total growth points needed to learn the new spell.
 
 Also, they may return the growth points they spent to become a specialist caster (such as Shaman, Wise, Priest or Adept). They can then spend this growth on spells, or more likely on becoming a specialist caster in their new magical path.
+

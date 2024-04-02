@@ -663,3 +663,4 @@ This type of possession has the spirit hiding in the victim's body. It only assu
 #### Dominant
 
 The spirit takes full control of the victim's body and, in turn, the victim's spirit is imprisoned in the body, unable to do anything until the hostile spirit is exorcised or leaves. A most dangerous form of possession, as the spirit often cares nothing for the body it inhabits, for once the body dies the spirit returns to its old existence, in most cases, and possession by a suicidal ghost or homicidal demon is never good for the body in question.
+
