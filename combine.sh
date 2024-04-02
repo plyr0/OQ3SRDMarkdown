@@ -1,0 +1,1 @@
+cat README.md '1 OQ3 SRD Characters.md' '2 OQ3 SRD Skills.md' '3 OQ3 SRD Equipment.md' '4 OQ3 SRD Combat.md' '5 OQ3 SRD Spot Rules.md' '6 OQ3 SRD Personal Magic.md' '7 OQ3 SRD Divine Magic.md' '8 OQ3 SRD Sorcery.md' '9 OQ3 SRD Creatures.md' '10 OQ3 SRD Loot.md' Licence.md > '11 OQ3 SRD Complete.md'

@@ -119,3 +119,5 @@ Finally, any special magic powers unique to the item are recorded here.
 _Affiliations:_ This section lists the organisations which are friendly to the item, which will try especially hard to obtain the item. This ranges from paying extra silver to get hold of it to (if so inclined), resorting to violence or underhand methods. Enemies who, for old reasons, hate the item and will either go out of their way to avoid the user or to try to destroy the item.
 
 _Price:_ If listed, this is the price that a collector would pay for the item. As a rough guide, the price of an item is 100 SP per magnitude of spell stored in it. However, very rarely will a magic item be available on the open market and in most fantasy worlds there is no such thing as 'Ye Olde Magic Shop'.
+
+

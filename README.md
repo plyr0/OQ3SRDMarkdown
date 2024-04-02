@@ -26,7 +26,7 @@ V.1.0 INITIAL RELEASE 17/01/2022
 SRD Markdown version
 -----------------------------------------------
 
-V.1.2 INITIAL RELEASE 2024.04.02 by plyr0
+V.1.2.1 INITIAL RELEASE 2024.04.02 by plyr0
 
 Made with [word-to-markdown](https://github.com/benbalter/word-to-markdown), Markdown Monster, Libre Office
 
