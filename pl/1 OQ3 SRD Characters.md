@@ -1,8 +1,8 @@
 # Postacie graczy
 
-## Generowanie postaci gracza
+## Tworzenie postaci gracza
 
-Generowanie postaci w OpenQuest jest siedmio-stopniowym procesem, na każdym kroku gracz podejmuje decyzje o tym, jaka jest jego postać na początku gry, kiedy postać dopiero zaczyna karierę poszukiwacza przygód.
+Tworzenie postaci w OpenQuest jest siedmiostopniowym procesem, na każdym kroku gracz podejmuje decyzje o tym, jaka jest jego postać na początku gry, kiedy postać dopiero zaczyna karierę poszukiwacza przygód.
 
 ### Koncepcja postaci
 
@@ -37,27 +37,28 @@ _Charyzma (Charisma  / CHA):_ Ta cecha wyznacza atrakcyjność postaci i jej zdo
 
 ##### Użycie metody kupowania punktów
 
-Each characteristic starts with a value of 8. You have thirty points to distribute to increase them. The maximum value of a characteristic during character generation is 18. You may also lower a characteristic to gain extra points. For example, reduce STR from 8 to 6 to gain 2 points. Note that INT and SIZ cannot be decreased below 8. Other characteristics have a minimum value of 3, although such a low value would indicate that the character has a severe disadvantage in this area.
+Każda charakterystyka ma początkową wartość 8.
+Masz 30 punktów do rozdzielenia, żeby podnieść charakterystyki. Maksymalna ich wartość na etapie generowania postaci to 18. Możesz też obniżyć wartość, żeby zyskać dodatkowe punkty. Na przykład, zredukuj Siłę STR z 8 do 6, żeby zyskać 2 punkty. Zauważ że Inteligencja INT i Rozmiar SIZ nie mogą zostać obniżone poniżej 8. Inne charakterystyki mają minimum równe 3, jednak tak niska wartość wskazuje, że postać ma poważne utrudnienie w tym obszarze.
 
-##### Random Generation of Characteristics (Optional)
+##### Losowe generowanie charakterystyk(opcjonalnie)
 
-If you prefer a more traditional method of rolling dice to create characteristics, follow this process.
+Jeśli wolisz bardziej tradycyjną metodę rzucania kostką do tworzenia charakterystyk, wykorzystaj ten proces.
 
-For humans.
+Dla ludzi.
 
 | **STR** | **DEX** | **CON** | **SIZ** | **INT** | **POW** | **CHA** |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3D6 | 3D6 | 3D6 | 2D6+6 | 2D6+6 | 3D6 | 3D6 |
 
-### Attributes
+### Atrybuty
 
-Attributes are a set of secondary scores that define the character's potential to do and take physical damage, how quickly they move, and the amount of magical energy available to the character. The character's characteristic scores determine the value of their attributes.
+Atrybuty są zestawem drugorzędnych wartości, które definiują potencjał postaci do zadawania i otrzymywania fizycznych obrażeń, jak szybko może się ona przemieszczać, oraz ilość magicznej energii dostępnej dla postaci. Charakterystyki definiują wartości Atrybutów.
 
-_Damage Modifier (DM):_ The Damage Modifier applies whenever the character uses a melee or thrown weapon. It's calculated by adding the character's Strength and Size together and referring to the table below. The modifier gets more significant when the sum of Strength and Size are higher –bigger, stronger, characters deal out more damage than smaller, weaker, characters.
+_Modyfikator obrażeń (Damage Modifier / DM):_ Modyfikator obrażeń ma zastosowanie zawsze gdy postać używa broni do walki wręcz lub rzucanej. Wylicza się go dodając do siebie Siłę i Rozmiar, porównując sumę z tabelą poniżej. Modyfikator staje się bardziej znaczący dla wyższej sumy Siły i Rozmiaru - większa, silniejsza postać zadaje więcej obrażeń niż mniejsza, słabsza.
 
-***Damage Modifier***
+_**Modyfikator Obrażeń**_
 
-| **Total of STR and SIZ** | **Damage Modifier** |
+| **Suma STR i SIZ** | **Modyfikator Obrażeń** |
 | --- | --- |
 | 1–10 | –1D6 \* |
 | 11–15 | –1D4 \* |
@@ -67,320 +68,320 @@ _Damage Modifier (DM):_ The Damage Modifier applies whenever the character uses 
 | 46–60 | +2D6 |
 | 61-75 | +3D6 |
 | 76-90 | +4D6 |
-| Every additional + 15 | +1D6 |
+| Każde dodatkowe + 15 | +1D6 |
 
-\*If after you have taken away the rolled damage modifier and the damage is under 0, increase it to 1.
+\*Jeśli po odjęciu Modyfikatora Obrażeń od rzutu na obrażenia są one niższe niż lub równe 0, zwiększ je do 1.
 
-_Hit points (HP):_ These determine how much damage the character can sustain before reaching unconsciousness or death.
+_Punkty trafień (Hit points / HP):_ Wskazują jak wiele obrażeń postać może wytrzymać, zanim padnie nieprzytomna lub umrze.
 
-_Magic points (MP):_ A measure of the character's magical energy.Used to activate any spells the character knows.
+_Punkty magii (Magic points / MP):_ Wskaźnik energii magicznej postaci. Używane do aktywowania znanych jej zaklęć.
 
-_Movement rate (MR):_ This is the amount in metres that a character can move in a five-second Combat Round.
+_Zasięg ruchu (Movement rate / MR):_ Zasięg ruchu w metrach, jaki może pokonać postać w 5 sekundowej Rundzie Walki.
 
-#### Step 3: Determine Attributes
+#### Krok 3: Określ Atrybuty
 
-To work out your character's damage modifier, add Strength and Size together and look at the Damage Modifier table.
+DM - Żeby określić Modyfikator Obrażeń, dodaj Siłę i Rozmiar, i spójrz na tabelę Modyfikatora Obrażeń.
 
-Hit points equal Size plus Constitution divided by 2, rounded up.
+HP - Punkty trafień równają się sumie Rozmiaru i Kondycji, podzielonej przez dwa, zaokrąglone w górę. Sufit( (SIZ + CON)/2 )
 
-The character's starting magic points will be equal to the character's POW.
+MP - Początkowe punkty magii postaci są równe jej Mocy POW.
 
-Human characters have a Movement rate of 15 metres.
+MR - Ludzie mają zasięg ruchu równy 15 metrom.
 
-### Skills
+### Umiejętności
 
-Skills are things that the character can do. They represent particular areas of expertise. In-game, the percentage value of the skill is rolled against, using a D100, to work out if a character completes a task in the game. A roll equal to or less than the skill percentage indicates a success.
+Umiejętności określają co postać potrafi zrobić. Reprezentują szczególne obszary wiedzy eksperckiej. W grze, procentowa wartość Umiejętności jest testowana rzutem kości D100, żeby określić wykonanie zadania. Rzut równy lub poniżej wartości Umiejętności oznacza sukces.
 
-For example.
+Na przykład.
 
-Ethelred has a Dodge of 52%, which means that in combat he has to roll 52 or under on D100 to avoid the incoming blows of his opponent.
+Ethelred ma Uniki równe 52%, co oznacza, że w walce musi wyrzucić 52 lub niżej na kości D100, żeby uniknąć ciosów przeciwnika.
 
-#### What do the Numbers Mean?
+#### Co oznaczają te liczby?
 
-The following table translates the skill percentage into a 'real world' description of the level of expertise.
+Poniższa tabela tłumaczy wartości procentowe Umiejętności na opis wiedzy eksperckiej w "realnym świecie"..
 
-***Skill Expertise***
+_**Ekspertyza Umiejętności**_
 
-| **Skill** | **Expertise** | **Description** |
+| **Umiejętność** | **Ekspertyza** | **Opis** |
 | --- | --- | --- |
-| 0-25% | Novice | No experience with the skill and is relying on raw talent and beginner's luck. |
-| 26-50% | Apprentice | This level of expertise represents someone actively learning the skill. |
-| 51-75% | Veteran | The character is competent with the basic uses of the skill, which they use in everyday life. |
-| 76-99% | Expert | This character is a local expert at the skill, who can perform it under most conditions with ease and elegance. |
-| 100% | Master | They are acknowledged as best at that skill, and regularly perform the impossible in challenging conditions. |
+| 0-25% | Nowicjusz | Brak doświadczenia z Umiejętnością, poleganie na czystym talencie i szczęściu początkującego. |
+| 26-50% | Praktykant | Ten poziom ekspertyzy wskazuje kogoś aktywnie uczącego się Umiejętności. |
+| 51-75% | Weteran | Postać jest kompetentna z podstawowym użyciem Umiejętności, której to używa w codziennym życiu. |
+| 76-99% | Ekspert | Ta postać jest lokalnym ekspertem od Umiejętności, może działać w większości warunków z łatwością i elegancją. |
+| 100% | Mistrz | Postać jest uznawana za najlepszą w Umiejętności i regularnie dokonuje niemożliwego w trudnych warunkach. |
 
-100% is the upper limit for skills, either through improvement or by being modified before a skill roll. Characters with skills at 100% are Masters of their skills, and always automatically succeed with a critical effect.
+100% jest górnym limitem dla Umiejętności, zarówno z ulepszenia jak i modyfikacji przed rzutem. Postaci z Umiejętnością na 100% są w niej Mistrzami i zawsze automatycznie odnoszą sukces z krytycznym efektem.
 
-#### Skill Lists
+#### Lista Umiejętności
 
-Skills categorised for easy reference.
+Umiejętności mają kategorie dla łatwiejszego odniesienia.
 
-_Resistances_ are skills that get the character out of harm's way.
+_Odporności_ są Umiejętnościami pozwalającymi uniknąć niebezpieczeństwa.
 
-_Combat skills_ measure the character's skills in physical violence.
+_Umiejętności walki_ określają zdolności postaci w stosowaniu przemocy fizycznej.
 
-_Knowledge skills_ measure the intellectual abilities of the character.
+_Umiejętności wiedzy_ określają zdolności intelektualne postaci.
 
-_Practical skills_ measure the character's ability to perform a variety of everyday and specialist tasks.
+_Umiejętności praktyczne_ określają zdolność postaci do wykonywania różnorodnych zadań codziennych i specjalistycznych.
 
-_Magic skills_ cover either casting magic or knowledge of religious practices.
+_Umiejętności magiczne_ obejmują rzucanie magii lub wiedzę o praktykach religijnych.
 
-_A note about skills with descriptors in brackets._ Lore (Type), Religion (Other Religion) and Culture (Other) all have a descriptor in brackets after the main skill name
+_Uwaga o Umiejętnościach z deskryptorem w nawiasach._ Wiedza (Rodzaj), Religia (Inna Religia) i Kultura (Inna) wszystkie mają deskryptor w nawiasach po głównej nazwie umiejętności.
 
-#### Skill Bases
+#### Początkowe wartości Umiejętności
 
-***Resistances***
+_**Odporności**_
 
-| Skill | Base |
+| Umiejętność | Wartość podstawowa |
 | --- | --- |
-| Dodge | DEX+10 |
-| Persistence | POW+10 |
-| Resilience | CON+POW |
+| Uniki | DEX+10 |
+| Wytrwałość | POW+10 |
+| Wytrzymałość | CON+POW |
 
-***Combat Skills***
+_**Walka**_
 
-| Skill | Base |
+| Umiejętność | Wartość podstawowa |
 | --- | --- |
-| Close Combat | DEX+STR |
-| Ranged Combat | DEX+INT |
-| Unarmed Combat | DEX+STR |
+| Walka bronią wręcz | DEX+STR |
+| Walka dystansowa | DEX+INT |
+| Walka bez broni | DEX+STR |
 
-***Knowledge Skills***
+_**Wiedza**_
 
-| Skill | Base |
+| Umiejętność | Wartość podstawowa |
 | --- | --- |
-| Culture (Own) | INT+10 |
-| Language (Own) | INT+50 |
-| Natural Lore | INT+10 |
-| Culture (Other) | INT |
-| Language (Other) | INT |
-| Lore (Type) | INT |
+| Kultura (Własna) | INT+10 |
+| Język (Własny) | INT+50 |
+| Wiedza o przyrodzie | INT+10 |
+| Kultura (Inna) | INT |
+| Język (Inny) | INT |
+| Wiedza (Rodzaj) | INT |
 
-***Practical Skills***
+_**Praktyczne**_
 
-| Skill | Base |
+| Umiejętność | Wartość podstawowa |
 | --- | --- |
-| Athletics | DEX+STR |
-| Craft | INT+10 |
-| Deception | DEX+INT |
-| Driving | DEX+INT |
-| Engineering | INT+10 |
-| Healing | INT+10 |
-| Influence | CHA +10 |
-| Mechanisms | DEX+INT |
-| Perception | INT+POW |
-| Performance | CHA+10 |
-| Riding | DEX+POW |
-| Sailing | DEX+INT |
-| Streetwise | CHA+POW |
-| Trade | INT+10 |
-| Wealth | INT+CHA |
+| Atletyka | DEX+STR |
+| Rzemiosło | INT+10 |
+| Oszustwo | DEX+INT |
+| Prowadzenie | DEX+INT |
+| Inżynieria | INT+10 |
+| Leczenie | INT+10 |
+| Wpływ | CHA +10 |
+| Mechanizmy | DEX+INT |
+| Percepcja | INT+POW |
+| Występy | CHA+10 |
+| Jeździectwo | DEX+POW |
+| Żeglarstwo | DEX+INT |
+| Cwaniactwo | CHA+POW |
+| Handel | INT+10 |
+| Majątek | INT+CHA |
 
-***Magic Skills***
+_**Magiczne**_
 
-| Skill | Base |
+| Umiejętność | Wartość podstawowa |
 | --- | --- |
-| Personal Magic Casting | POW X 3 |
-| Sorcery Casting | INT |
-| Religion (Own Religion) | INT+10 |
-| Religion (Other Religion) | INT |
+| Magia osobista | POW X 3 |
+| Czarownictwo | INT |
+| Religia (Własna religia) | INT+10 |
+| Religia (Inna religia) | INT |
 
-#### Step 4: Calculate Skills
+#### Krok 4: Oblicz Umiejętności
 
-For each skill, calculate the starting skill value, also known as the base score, from the calculation provided. Then write it down on the character sheet next to the skill.
+Dla każdej Umiejętności oblicz początkową wartość, zwaną też Wartością podstawową, z podanych powyżej wzorów. Zapisz ją na karcie postaci obok Umiejętności.
 
-During character generation, the player gets a pool of points to spend on each group of skills. Distribute points between the skills, with a limit of no more than 30 to be allocated to any one skill.
+Podczas tworzenie postaci, gracz otrzymuje pulę punktów w każdej kategorii Umiejętności. Rozdziel punkty pomiędzy Umiejętności, z limitem nie więcej niż 30 punktów na jedną Umiejętność.
 
-_Resistances:_ Spend 50 points between the three skills.
+_Odporności:_ Wydaj 50 punktów pomiędzy 3 Umiejętności.
 
-_Combat:_ Spend 50 points between the three skills.
+_Walka:_ Wydaj 50 punktów pomiędzy 3 Umiejętności.
 
-_Knowledge:_ Spend 50 points between the skills.
+_Wiedza:_ Wydaj 50 punktów pomiędzy Umiejętności.
 
-_Practical:_ Spend 75 points between skills.
+_Praktyczne:_ Wydaj 75 punktów pomiędzy Umiejętności.
 
-_Magic:_ is special, refer to Generating a Character Step 5 below.
+_Magiczne:_ specjalne,  spójrz na krok 5 poniżej.
 
-### Magic
+### Magia
 
-#### Step 5: Magic Spells
+#### Krok 5: Zaklęcia Magiczne
 
-Look at the spells in the Personal Magic chapter and pick six points of magnitude worth. Also work out Personal Magic Casting Skill, which starts at POW X 3.
+Zajrzyj do rozdziału Magia Osobista i wybierz zaklęcia warte 6 punktów Magnitudy. Również określ Umiejętność Magia Osobista, która ma wartość podstawową POW x 3.
 
-### Equipment
+### Ekwipunek
 
-Each character typically starts with some money and the tools of their trade.
+Każda postać zazwyczaj startuje z pewną liczbą pieniędzy i narzędziami swojego zawodu.
 
-#### Step 6: Cash and Equipment
+#### Krok 6: Pieniądze i Ekwipunek
 
-- Starting cash is 4D6 x 10 in silver pieces unless you are using the optional rules to abstract resources using the Wealth skill.
-- Each character starts with one of the two arms and armour packages below:
-- Leather armour, ranged weapon, close combat 2H weapon and dagger.
-- Leather armour, a medium or small shield, ranged weapon, close combat 1H weapon and dagger.
-- Also, each character starts with the following equipment:
-- A backpack, rope, two weeks' worth of travelling provisions, flint and tinder, and a waterskin.
+- Początkowe pieniądze to 4D6 x 10 sztuk srebra, chyba że używasz opcjonalnej reguły abstrakcyjnych zasobów - Umiejętność Majątek.
+- Każda postać zaczyna z jednym pakietem broni i pancerza z dwóch poniższyc:
+  - Zbroja skórzana, broń dystansowa, broń biała dwuręczna(2H) i sztylet.
+  - Zbroja skórzana, średnia lub mała tarcza, broń dystansowa, broń biała jednoręczna(1H) i sztylet.
+- Również każda postać zaczyna z następującym wyposażeniem:
+  - Plecak, lina, racje żywnościowe na 2 tygodnie, krzesiwo i hubka, oraz bukłak z wodą.
 
-Your Referee may allow you to buy additional equipment before the game starts from the character's starting cash.
+Twój Arbiter może pozwolić na zakup dodatkowego wyposażenia, przed rozpoczęciem gry, z pieniędzy początkowych postaci.
 
-### Finishing Off the Character
+### Dokończenie postaci
 
-#### General Information
+#### Ogólne informacje
 
-_Age:_ Human characters start at any age between 18 and 28. To randomly determine this, roll 2D6 and add 16.
+_Wiek:_ Ludzie zaczynają w dowolnym wieku pomiędzy 18 a 28 lat. Żeby losowo określić wiek, rzuć 2D6 i dodaj 16.
 
-_Fortune points:_ Every character starts with two fortune points.
+_Punkty fortuny:_ Każda postać zaczyna z 2 Punktami fortuny.
 
-#### What are Fortune Points?
+#### Czym są Punkty fortuny?
 
-Fortune points are what distinguishes the player character from the average stay at home type folk. They represent their good fortune and ability to escape life-threatening situations with ease.
+Punkty fortuny są tym co odróżnia postać gracza od przeciętnego zjadacza chleba. Reprezentują szczęście i łatwość do uniknięcia sytuacji zagrażających życiu.
 
-Fortune points allow the player character to do any of the following in game.
+Punkty fortuny pozwalają graczowi zrobić dowolną z następujących rzeczy w grze.
 
-- Re-roll any failed dice roll.
-- Flip the existing dice result for a failed test so that the units are now the tens and the tens are now the units, so that it is a success.
-- Avoid character death. Instead of dying, the character, if reduced to zero or fewer hit points, is merely unconscious. The character remains in such a state until the combat is over, at which point they awaken with one hit point.
-- If the character uses Divine Magic, they can spend fortune points invoke their deity and regain a cast spell of their choosing.
+- Przerzuć nieudany rzut kostką.
+- Zamień istniejący nie udany rzut tak, że jednostki są teraz dziesiątkami, a dziesiątki jednostkami, tak żeby rzut był udany.
+- Uniknij śmierci postaci. Jeżeli postać jest zredukowana do zera lub mniej Punktów trafień, zamiast umrzeć, jest tyko nieprzytomna. Postać zostaje w tym stanie do końca walki, po czym budzi się z 1 Punktem trafień.
+- Jeśli postać używa Boskiej Magii, może wydać Punkt fortuny wzywając swoje bóstwo i odzyskując rzucone zaklęcie, według swojego uznania.
 
-Once spent, fortune points are gone. The Referee awards fortune at the end of the game session for moments of outstanding heroic play.
+Raz wydane, Punkty fortuny są stracone. Arbiter nagradza Punktami fortuny, na koniec sesji, za momenty wybitnej gry bohaterskiej.
 
-In an average Quest, each character should also receive two fortune points. Modify this total if the character has performed particularly poorly or heroically, giving a range of between zero and four fortune points to be awarded.
+W typowej Przygodzie(Quest), każda postać powinna także otrzymać 2 Punkty fortuny. Zmodyfikuj całość przyznanych punktów w zależności czy postać sprawowała się kiepsko czy heroicznie, co daje przedział punktów między 0, a 4 przyznanych Punktów fortuny.
 
-#### Background, Appearance and Personality
+#### Przeszłość, Wygląd i Osobowość
 
-Even if you do not create a fully written-up background, it is worth making a mental note of what the character is like as a person and roughly what their background is previous to play, as well as visualising what they look like.
+Nawet jeśli nie tworzysz w pełni zapisanego pochodzenia postaci, warto zanotować w pamięci, jaka postać jest jako osoba; z grubsza jaką miała przeszłość przed rozpoczęciem gry; a także zwizualizować jak wygląda.
 
-#### The Character's Background
+#### Pochodzenie postaci
 
-The background is useful not only to give the character history before the game starts but also as a way of noting all the intangible elements of the character's personality. Ethelred's story later in this chapter is an example of a background.
+Pochodzenie jest użyteczne nie tylko, aby dostarczyć historii postaci, zanim się rozpocznie gra, ale także jest sposobem na odnotowanie wszystkich nieuchwytnych elementów osobowości bohatera.
 
-Writing down a background is optional and can be done either before or after character generation or can even emerge during play.
+Zapisanie pochodzenia postaci jest opcjonalne i może być zrobione zarówno przed, jak i po Tworzeniu postaci, lub może nawet wyłaniać się w czasie samej gry.
 
-#### **Motives**
+#### Motywy
 
-Motives are what drives the character's actions. They are the character's goals, both short and long-term.
+Motywy są tym co kieruje działaniami postaci. Są to cele postaci, zarówno krótko- jak i długoterminowe.
 
-Saga Motives are life motives and are only achievable throughout a linked set of adventures, commonly known as a 'campaign' or Saga as OpenQuest calls it.
+Motywy Sagi są motywami życiowymi i są osiągalne tylko w ramach zestawu połączonych przygód, powszechnie nazywanym "kampanią" lub Sagą w OpenQuest.
 
-Quest Motives are usually relevant to the adventure currently being played and are determined near the beginning of the session by the players.
+Motywy Przygody(Quest) są powiązane z aktualnie graną przygodą  i są ustalane przez graczy na początku sesji.
 
-At the end of character generation, choose one Saga Motive for your character and at the beginning of the adventure, choose a suitable Quest Motive.
+Na końcu tworzenia postaci, wybierz Motyw Sagi dla twojej postaci, a na początku przygody, wybierz odpowiedni Motyw Przygody(Quest Motive).
 
-#### Step 7: Finish Off the Character
+#### Krok 7: Dokończ postać
 
-Note down fortune points and age.
+Zapisz Punkty fortuny i wiek.
 
-For humans, this is 18-28 (2D6+16) respectively for starter adventurers.
+Dla ludzi, to jest 18-28 (2D6+16) odpowiednio dla początkujących łowców przygód.
 
-Fortune points starts at 2.
+Początkowe Punkty fortuny to 2.
 
-Create at a Saga Motive for the character
+Stwórz Motyw Sagi dla postaci.
 
-If you want to include a background narrative, then do this now.
+Jeśli chcesz dołączyć pochodzenie postaci, zrób to teraz.
 
-Finally, if you haven't done so already, write the character's name on the character sheet.
+W końcu, jeśli jeszcze tego nie zrobiono, zapisz imię postaci na karcie postaci.
 
-## Non-human adventurers (Optional)
+## Nie-ludzcy poszukiwacze przygód (Opcjonalnie)
 
-With the Referee's permission, your character may be one of the creatures found in the Creatures chapter.
+Za pozwoleniem Arbitra, twoja postać może być jednym ze stworzeń z rozdziału Stworzenia.
 
-Use the random method to determine characteristics and roll the dice.
+Użyj metody losowego generowania charakterystyk i rzucaj kostką.
 
-or
+albo
 
-Take the value in brackets as the starting point and add ten points amongst them. Characteristics cannot be increased above the maximum value permitted by the random method (i.e. the maximum rollable plus three).
+Weź wartości z nawiasów jako wartości bazowe i wydaj 10 punktów pomiędzy nie. Charakterystyk nie można zwiększyć powyżej dozwolonej wartości z metody losowego generowania (np.: maksimum możliwe z kości plus 3).
 
-Make a note of the special abilities, traits, movement rates, natural armour and the natural weapons of the creature; damage base is as given, and skills start at Base Value.
+Zapisz specjalne zdolności, cechy, zasięgi ruchu, naturalny pancerz, i naturalną broń stworzenia; podstawowe obrażenia z opisu, a z Umiejętnościami zaczynasz na Wartości bazowej.
 
-Then determine skills and magic as normal, perhaps using the weapons and skills on the creature description which depict an average member of the species as a guide.
+Następnie określ Umiejętności i Magię tak jak zwykle, być może używając broni i Umiejętności typowych dla stworzenia wg. opisu stworzenia.
 
-## Ready-Made Concepts
+## Gotowe koncepcje
 
-Ready-made concepts give quick ideas for players who are struggling to decide which skills and magic to choose.
+Gotowe koncepcje dają szybki pomysł, graczom niezdecydowanym, które Umiejętności i Magię wybrać.
 
-Follow the character generation process up to the section on spending points on skills and choosing magic (steps 4 & 5). Instead of step 4 and 5, use the skill points and magic spells allocation as listed for the concept. Roll for money as normal but write down all the suggested equipment on the character sheet instead of the normal default adventuring starting equipment.
+Twórz postać tak jak zwykle, aż dojdziesz do wyboru Umiejętności i Magii (kroki 4 i 5). Zamiast kroków 4 i 5, użyj przydziału Umiejętności i Magii z gotowej koncepcji. Rzucaj na ilość pieniędzy normalnie, ale ekwipunek przepisz do karty postaci z koncepcji, zamiast domyślnego.
 
-Each concept has the following components:
+Każda koncepcja ma następujące komponenty:
 
-A name. A one-sentence summary of the concept.
+Nazwa. Jedno-zdaniowe podsumowanie koncepcji.
 
-• Skills. A ready-made points allocation for each of the skills groups.
+- Umiejętności. Gotowe przydziały punktów dla każdej z kategorii Umiejętności.
 
-• Personal Magic. Non-variable spells have the magic point cost in square brackets.
+- Magia osobista. Niezmienne zaklęcia mają koszt punktów magii w nawiasach kwadratowych.
 
-• Equipment.
+- Ekwipunek.
 
-So here we go here's an example of a ready-made concept for players who are stuck for ideas.
+Tak więc to jest gotowa koncepcja dla graczy, któym brakuje pomysłu.
 
-### Adventurous and Knowledge-Hungry Scholar
+### Uczony żądny przygód i głodny wiedzy
 
-Skills:
+Umiejętności:
 
-Resistances: Dodge +30, Persistence +10, Resilience +10.
+Odporności: Uniki +30, Wytrwałość +10, Wytrzymałość +10.
 
-Combat: Close Combat+20, Ranged Combat+10, Unarmed Combat +20.
+Walka: Walka bronią wręcz +20, Walka dystansowa +10, Walka bez broni +20.
 
-Knowledge: Language (Other) +20, Lore (Ancient Dead Civilisations) +30.
+Wiedza: Język (Inny) +20, Wiedza (Starożytne Martwe Cywilizacje) +30.
 
-Practical: Athletics + 25, Influence +20, Perception +30.
+Praktyczne: Atletyka + 25, Wpływ +20, Percepcja +30.
 
-Personal Magic: Coordination 2, Protection 2, Second Sight [2].
+Magia osobista: Koordynacja 2, Ochrona 2, Jasnowidzenie [2].
 
-Equipment: Scholar's robes over leather armour, staff or dagger, and sling & stones.
+Ekwipunek: Szaty uczonego na Zbroi skórzanej, laska lub sztylet, proca i kamienie.
 
-## Character Growth
+## Rozwój postaci
 
-As characters go on Quests, they grow and improve. In the game, this can be one of the tangible goals for the players.
+W miarę jak postacie przeżywają przygody(Quest), rozwijają się i ulepszają. W grze może to być jeden z wymiernych celów dla graczy.
 
-The main currency for achieving this and indicator of how well the character is doing in game terms are growth points or just simply growth. The Referee hands these out after a Quest.
+Główną walutą, aby tego dokonać i wskaźnikiem jak dobrze postać daje sobie radę w grze, są Punkty rozwoju lub po prostu Rozwój. Arbiter przyznaje je po przygodzie(Quest).
 
-Growth can happen because of three situations.
+Rozwój może nastąpić w tych 3 sytuacjach.
 
-- _Bringing motives into play_, as determined by the player and approved by the Referee.
-- _Quest achievement awards_. These are determined and handed out by the Referee.
-- _In game rewards for skill use._ If the player fumbles or criticals during a skill test.
-- _Ad hoc growth awards._ The Referee gives these out as a result of certain events occurring during the Quest.
+- _Wprowadzenie do gry motywów_, określonych przez gracza i zatwierdzonych przez sędziego.
+- _Osiągnięcia w przygodzie(Quest)_. Określane i przyznawane przez Arbitra.
+- _Nagrody za użycie Umiejętności_. Jeśli gracz wyrzuci Partactwo albo Krytyka w teście Umiejętności.
+- _Nagrody ad hoc_. Arbiter przyznaje je jako rezultat pewnych zdarzeń w czasie trwania przygody(Quest).
 
-### Awarding Growth for Motives
+### Przyznawanie rozwoju za motywy
 
-The characters' motives are the main way players get to drive play and grow their characters.
+Motywy postaci to główny sposób, w jaki gracze mogą kierować rozgrywką i rozwijać swoje postacie.
 
-If your character completes a motive, either short or long term, during a gaming session, cross it out.
+Jeśli, podczas sesji, twoja postać wypełni motyw, czy to krótko- czy długoterminowy, przekreśl go.
 
-If you engage with a motive in a gaming session, bringing it in to play, but don't complete it, put a \* next to it. You can only mark growth once in this way per Quest.
+Jeśli podczas sesji angażujesz się w jakiś motyw, wprowadzając go do rozgrywki, ale go nie dokończysz, umieść obok niego znak \*. Możesz oznaczyć rozwój w ten sposób tylko raz na przygodę(Quest).
 
-Make sure you make these marks as soon as your character achieves them with your Referee's permission.
+Upewnij się, że robisz te zapiski, jak tylko twoja postać osiągnie te cele, za zgodą Arbitra.
 
-At the end of the Quest, look at your motives.
+Na konic przygody(Quest), przyjrzyj się swoim motywom.
 
-+5 growth points if you complete your Saga motive.
++5 punktów rozwoju, jeśli ukończono motyw Sagi
 
-+2 growth points if you complete your Quest motive.
++2 punktów rozwoju, jeśli ukończono motyw Przygody(Quest)
 
-+1 for every motive that is brought into play. You don't get this award as well as the award for completing a motive.
++1 za każdy motyw zastosowany w grze. Nie dostajesz tej nagrody, jeśli kończysz ten motyw.
 
-As a result, you should have a total between 1 growth point (you engaged with your short-term Quest motive) and 7 growth points (you complete both your Quest motive and Saga motive).
+W rezultacie, powinieneś mieć w sumie między 1 punktem rozwoju(nawiązałeś do swojego krótko-terminowego motywu przygody(Quest)), a 7 punktów rozwoju(ukończyłeś zarówno motyw przygody(Quest) jak i Sagi).
 
-At this point, rub out any asterisk markers and remove any short-term motives, whether completed or not. Leave the completed long-term motives on the character sheet.
+Na tym etapie, wymaż znaki gwiazdki i usuń krótkoterminowe motywy, nieważne czy ukończone czy nie. Pozostaw ukończone długoterminowe motywy na karcie postaci.
 
-#### **Motive Review**
+#### Przegląd motywów
 
-At the end of each Quest, the player and the Referee can call for a Motive Review. During the review, the player can change Saga Motives that are no longer interesting to them or relevant to the character. They can also remove uncompleted Quest Motives or carry them over to the next Quest, in which case the Referee makes a note of them.
+Na koniec każdej przygody(Quest), gracz i Arbiter mogą poprosić o przegląd motywów. Podczas przeglądu, gracz może zmienić motywy Sagi który go już nie interesują, lub nie są istotne dla postaci. Może też usunąć nieukończone motywy przygody, lub przenieść je do następnej przygody, w takim wypadku Arbiter je sobie odnotowuje.
 
-### Referee Growth Awards
+### Nagrody rozwoju Arbitra
 
-The Referee award character growth as a result of the following.
+Arbiter przyznaje rozwój, jako rezultat następujących.
 
-- _Quest achievement award_ is directly linked to how long the quest was.
-- _In game rewards for skill use._ If a character fumbles or criticals during a skill test, their player adds a growth point immediately.
-- _Ad Hoc awards_ that acknowledge growth that occurs due to achievements outside of the standard growth system.
+- _Nagroda za przygodę(Quest)_ powiązana bezpośrednio z tym jak długo trwała przygoda.
+- _Nagroda za użycie Umiejętności w grze_. Jeśli gracz wyrzuci Partactwo albo Krytyka w teście Umiejętności, dostaje od razu 1 punkt rozwoju.
+- _Nagrody Ad Hoc_ przyznawane za osiągnięcia poza standardowym systemem rozwoju.
 
-#### Quest Achievement Awards
+#### Nagroda za przygodę(Quest)
 
-At the end of a Quest, the Referee makes this award, a simple flat award of two growth points for each session of play of average length of two-three hours. Adjust for longer sessions.
+Na koniec przygody(Quest), Arbiter przyznaje tę nagrodę, zwykłe stałe 2 punkty rozwoju za każdą sesję gry o średniej długości 2-3 godzin. Dostosuj dla dłuższych sesji.
 
-For example, A self-contained one session one-shot game that took three hours should give two growth points, while a Quest that took four sessions, each two to three hours, to play out gives eight growth points to each player.
+Dla przykładu, niezależna jedna sesja jednostrzałowa, która trwała 3 godziny powinna dać 2 punkty rozwoju. Podczas gdy przygoda(Quest) trwająca 4 sesje, każda po 2-3 godziny, w finale powinna dać po 8 punktów rozwoju każdemu z graczy.
 
-Note: if you want to reward clever or entertaining play, use fortune points instead.
+Uwaga: jeśli chcesz nagrodzić mądrą i zajmującą grę, użyj zamiast tego punktów fortuny.
 
 #### In Game Rewards for Skill Use
 

@@ -1,3 +1,10 @@
 1 OQ3 SRD Characters
-	Use the guidelines above to give yourself ideas. // not such guildines
+	//always round up fractions
+	Use the guidelines above to give yourself ideas. // not such guildlines in SRD
+	If after you have taken away the rolled damage modifier and the damage is under 0, increase it to 1. //under or equal 0, always deal at least 1 dmg?
+	This is the amount in metres that a character can move in a five-second Combat Round. // 5 or 6?
+	magnitude // In polish Magnituda means only Richter's scale of an earthquake. Skala is boring. Ogrom is a joke. Leaving Magnituda.
+	Ethelred's story later in this chapter is an example of a background. //not in srd, to removal
+	//Is Quest one session? or task between multiple sessions(Quest=Adventure)
+	Growth can happen because of three situations. // there are 4 situations
 	
