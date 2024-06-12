@@ -5,6 +5,7 @@
 	This is the amount in metres that a character can move in a five-second Combat Round. // 5 or 6?
 	magnitude // In polish Magnituda means only Richter's scale of an earthquake. Skala is boring. Ogrom is a joke. Leaving Magnituda.
 	Ethelred's story later in this chapter is an example of a background. //not in srd, to removal
-	//Is Quest one session? or task between multiple sessions(Quest=Adventure)
+	Quest // Quest=Adventure(Przygoda)
 	Growth can happen because of three situations. // there are 4 situations
+	During such downtime, the characters may improve their characters. //players
 	

@@ -244,7 +244,7 @@ Punkty fortuny pozwalają graczowi zrobić dowolną z następujących rzeczy w g
 
 Raz wydane, Punkty fortuny są stracone. Arbiter nagradza Punktami fortuny, na koniec sesji, za momenty wybitnej gry bohaterskiej.
 
-W typowej Przygodzie(Quest), każda postać powinna także otrzymać 2 Punkty fortuny. Zmodyfikuj całość przyznanych punktów w zależności czy postać sprawowała się kiepsko czy heroicznie, co daje przedział punktów między 0, a 4 przyznanych Punktów fortuny.
+Po typowej Przygodzie, każda postać powinna także otrzymać 2 Punkty fortuny. Zmodyfikuj całość przyznanych punktów w zależności czy postać sprawowała się kiepsko czy heroicznie, co daje przedział punktów między 0, a 4 przyznanych Punktów fortuny.
 
 #### Przeszłość, Wygląd i Osobowość
 
@@ -262,9 +262,9 @@ Motywy są tym co kieruje działaniami postaci. Są to cele postaci, zarówno kr
 
 Motywy Sagi są motywami życiowymi i są osiągalne tylko w ramach zestawu połączonych przygód, powszechnie nazywanym "kampanią" lub Sagą w OpenQuest.
 
-Motywy Przygody(Quest) są powiązane z aktualnie graną przygodą  i są ustalane przez graczy na początku sesji.
+Motywy Przygody są powiązane z aktualnie graną przygodą  i są ustalane przez graczy na początku sesji.
 
-Na końcu tworzenia postaci, wybierz Motyw Sagi dla twojej postaci, a na początku przygody, wybierz odpowiedni Motyw Przygody(Quest Motive).
+Na końcu tworzenia postaci, wybierz Motyw Sagi dla twojej postaci, a na początku przygody, wybierz odpowiedni Motyw Przygody).
 
 #### Krok 7: Dokończ postać
 
@@ -330,16 +330,16 @@ Ekwipunek: Szaty uczonego na Zbroi skórzanej, laska lub sztylet, proca i kamien
 
 ## Rozwój postaci
 
-W miarę jak postacie przeżywają przygody(Quest), rozwijają się i ulepszają. W grze może to być jeden z wymiernych celów dla graczy.
+W miarę jak postacie przeżywają Przygody, rozwijają się i ulepszają. W grze może to być jeden z wymiernych celów dla graczy.
 
-Główną walutą, aby tego dokonać i wskaźnikiem jak dobrze postać daje sobie radę w grze, są Punkty rozwoju lub po prostu Rozwój. Arbiter przyznaje je po przygodzie(Quest).
+Główną walutą, aby tego dokonać i wskaźnikiem jak dobrze postać daje sobie radę w grze, są Punkty rozwoju lub po prostu Rozwój. Arbiter przyznaje je po Przygodzie.
 
 Rozwój może nastąpić w tych 3 sytuacjach.
 
 - _Wprowadzenie do gry motywów_, określonych przez gracza i zatwierdzonych przez sędziego.
-- _Osiągnięcia w przygodzie(Quest)_. Określane i przyznawane przez Arbitra.
+- _Osiągnięcia w Przygodzie_. Określane i przyznawane przez Arbitra.
 - _Nagrody za użycie Umiejętności_. Jeśli gracz wyrzuci Partactwo albo Krytyka w teście Umiejętności.
-- _Nagrody ad hoc_. Arbiter przyznaje je jako rezultat pewnych zdarzeń w czasie trwania przygody(Quest).
+- _Nagrody ad hoc_. Arbiter przyznaje je jako rezultat pewnych zdarzeń w czasie trwania Przygody.
 
 ### Przyznawanie rozwoju za motywy
 
@@ -347,117 +347,117 @@ Motywy postaci to główny sposób, w jaki gracze mogą kierować rozgrywką i r
 
 Jeśli, podczas sesji, twoja postać wypełni motyw, czy to krótko- czy długoterminowy, przekreśl go.
 
-Jeśli podczas sesji angażujesz się w jakiś motyw, wprowadzając go do rozgrywki, ale go nie dokończysz, umieść obok niego znak \*. Możesz oznaczyć rozwój w ten sposób tylko raz na przygodę(Quest).
+Jeśli podczas sesji angażujesz się w jakiś motyw, wprowadzając go do rozgrywki, ale go nie dokończysz, umieść obok niego znak \*. Możesz oznaczyć rozwój w ten sposób tylko raz na Przygodę.
 
 Upewnij się, że robisz te zapiski, jak tylko twoja postać osiągnie te cele, za zgodą Arbitra.
 
-Na konic przygody(Quest), przyjrzyj się swoim motywom.
+Na konic Przygody, przyjrzyj się swoim motywom.
 
 +5 punktów rozwoju, jeśli ukończono motyw Sagi
 
-+2 punktów rozwoju, jeśli ukończono motyw Przygody(Quest)
++2 punktów rozwoju, jeśli ukończono motyw Przygody
 
 +1 za każdy motyw zastosowany w grze. Nie dostajesz tej nagrody, jeśli kończysz ten motyw.
 
-W rezultacie, powinieneś mieć w sumie między 1 punktem rozwoju(nawiązałeś do swojego krótko-terminowego motywu przygody(Quest)), a 7 punktów rozwoju(ukończyłeś zarówno motyw przygody(Quest) jak i Sagi).
+W rezultacie, powinieneś mieć w sumie między 1 punktem rozwoju(nawiązałeś do swojego krótko-terminowego motywu Przygody), a 7 punktów rozwoju(ukończyłeś zarówno motyw Przygody jak i Sagi).
 
 Na tym etapie, wymaż znaki gwiazdki i usuń krótkoterminowe motywy, nieważne czy ukończone czy nie. Pozostaw ukończone długoterminowe motywy na karcie postaci.
 
 #### Przegląd motywów
 
-Na koniec każdej przygody(Quest), gracz i Arbiter mogą poprosić o przegląd motywów. Podczas przeglądu, gracz może zmienić motywy Sagi który go już nie interesują, lub nie są istotne dla postaci. Może też usunąć nieukończone motywy przygody, lub przenieść je do następnej przygody, w takim wypadku Arbiter je sobie odnotowuje.
+Na koniec każdej Przygody, gracz lub Arbiter mogą poprosić o przegląd motywów. Podczas przeglądu, gracz może zmienić motywy Sagi który go już nie interesują, lub nie są istotne dla postaci. Może też usunąć nieukończone motywy przygody, lub przenieść je do następnej przygody, w takim wypadku Arbiter je sobie odnotowuje.
 
 ### Nagrody rozwoju Arbitra
 
 Arbiter przyznaje rozwój, jako rezultat następujących.
 
-- _Nagroda za przygodę(Quest)_ powiązana bezpośrednio z tym jak długo trwała przygoda.
+- _Nagroda za Przygodę_ powiązana bezpośrednio z tym jak długo trwała przygoda.
 - _Nagroda za użycie Umiejętności w grze_. Jeśli gracz wyrzuci Partactwo albo Krytyka w teście Umiejętności, dostaje od razu 1 punkt rozwoju.
 - _Nagrody Ad Hoc_ przyznawane za osiągnięcia poza standardowym systemem rozwoju.
 
-#### Nagroda za przygodę(Quest)
+#### Nagroda za przygodę
 
-Na koniec przygody(Quest), Arbiter przyznaje tę nagrodę, zwykłe stałe 2 punkty rozwoju za każdą sesję gry o średniej długości 2-3 godzin. Dostosuj dla dłuższych sesji.
+Na koniec Przygody, Arbiter przyznaje tę nagrodę, zwykłe stałe 2 punkty rozwoju za każdą sesję gry o średniej długości 2-3 godzin. Dostosuj dla dłuższych sesji.
 
-Dla przykładu, niezależna jedna sesja jednostrzałowa, która trwała 3 godziny powinna dać 2 punkty rozwoju. Podczas gdy przygoda(Quest) trwająca 4 sesje, każda po 2-3 godziny, w finale powinna dać po 8 punktów rozwoju każdemu z graczy.
+Dla przykładu, niezależna jedna sesja jednostrzałowa, która trwała 3 godziny powinna dać 2 punkty rozwoju. Podczas gdy Przygoda trwająca 4 sesje, każda po 2-3 godziny, w finale powinna dać po 8 punktów rozwoju każdemu z graczy.
 
 Uwaga: jeśli chcesz nagrodzić mądrą i zajmującą grę, użyj zamiast tego punktów fortuny.
 
-#### In Game Rewards for Skill Use
+#### Nagroda za użycie Umiejętności w grze
 
-If a character fumbles or criticals during a skill-test, they grow from the experience and the player immediately records a one-point growth award. The table should also cheer on the player. There is no limit to how many times this reward can be issued. The reward reflects this author's belief that we grow from great success or great failure.
+Jeśli postać wyrzuci Partactwo lub Krytyka podczas testu Umiejętności, postać rozwija się przez doświadczenie, a gracz od razu dopisuje sobie 1 punkt rozwoju. Reszta graczy i Arbiter
+powinni kibicować graczowi. Nie ma limitu jak wiele razy ta nagroda może zostać przyznana. Wyraża ona przekonanie autora systemu, że rozwijamy się poprzez wielki sukces lub wielką porażkę.
 
-#### Ad Hoc Awards
+#### Nagrody Ad Hoc
 
-Ad hoc means when necessary or needed.
+Ad hoc oznacza, kiedy jest to konieczne lub potrzebne.
 
-The characters may grow as part of the Quest in ways that are immediate and hard to fit within the context of awarding growth points and the Referee wants to make a one off award of a character growth directly linked to the Quest.
+Postacie mogą się rozwijać jako część Przygody w sposób natychmiastowy i trudny do wpasowania w kontekst przyznawania punktów rozwoju, a Arbiter może chcieć przyznać jednorazową nagrodę rozwoju postaci, bezpośrednio powiązaną z Przygodą.
 
-For example.
+Na przykład.
 
-- A Wise may teach (for free) the spell of Detect Gold as a reward for completing a Quest on their behalf.
+- Mędrzec może nauczyć (za darmo) zaklęcia Wykryj Złoto, jako nagrodę za wypełnienie Przygody w jego imieniu.
 
-### Spending Growth Points
+### Wydawanie Punktów Rozwoju
 
-Players may spend growth points in the downtime between Quests, even when their characters who are badly injured are healing. The default downtime period is three months, although it could drop to mere days if the flow of time in the series of Quests, known as a Saga, requires it.
+Gracze mogą wydawać punkty rozwoju w przestoju między przygodami, nawet jeśli ich postać jest ciężko ranna i się leczy. Domyślny czas przestoju to 3 miesiące, ale może zostać zmniejszony do ledwie kilku dni, jeśli wymaga tego upływ czasu w serii Przygód, czyli w Sadze.
 
-#### Growing Skills
+#### Rozwój Umiejętności
 
-A player may improve any number of skills by spending growth points, but each skill can only go up by +5%, during the downtime between adventures.
+Gracz może ulepszyć dowolną liczbę Umiejętności przez wydawanie punktów rozwoju, ale każda jedna Umiejętność może zostać podniesiona tylko o +5%, podczas jednego przestoju między przygodami.
 
-The cost of that growth depends on the expertise of the skill.
+Koszt takiego rozwoju zależy od poziomu ekspertyzy danej Umiejętności.
 
-***Growth Costs by Expertise***
+_**Koszt rozwoju a ekspertyza**_
 
-| **Skill** | **Expertise** | **Growth cost Per +5%** |
+| **Umiejętność** | **Ekspertyza** | **Kosz rozwoju za +5%** |
 | --- | --- | --- |
-| 0-25% | Novice | 1 |
-| 26-50% | Apprentice | 2 |
-| 51-75% | Veteran | 3 |
-| 76-99% | Expert | 5 |
-| 100% | Master | 10 to reach 100% |
+| 0-25% | Nowicjusz | 1 |
+| 26-50% | Praktykant | 2 |
+| 51-75% | Weteran | 3 |
+| 76-99% | Ekspert | 5 |
+| 100% | Mistrz | 10 żeby osiągnąć 100% |
 
-#### Growing Characteristics
+#### Rozwój charakterystyk
 
-A player can choose to spend five growth points to increase one characteristic by one point.
+Gracz może wybrać wydanie 5 punktów rozwoju, żeby zwiększyć charakterystykę o 1 punkt.
 
-SIZ never increases using growth points.
+Rozmiar SIZ nigdy nie może być zwiększony przez wydanie punktów rozwoju.
 
-The maximum a human character can increase a characteristic to is 21. For non-humans, the maximum for a characteristic is equal to the maximum possible starting score for the characteristic plus three.
+Maksimum, do którego można zwiększyć charakterystykę, dla człowieka to 21. Dla nie-ludzi maksimum charakterystyki jest równe maksimum z rzutu na wartość początkową plus 3.
 
-This type of growth allows the character to overcome the innate weaknesses they suffer due to low characteristic scores.
+Ten rodzaj rozwoju pozwala postaci przezwyciężyć wrodzone słabości, na które cierpi z powodu niskich charakterystyk.
 
-#### Growing Magic
+#### Rozwój magii
 
-How the character learns more magic is dealt with in the respective magic chapters (Personal Magic, Divine Magic, and Sorcery). But for convenience the costs are summarised in the following table.
+Jak postać uczy się więcej magii opisano w odpowiednich rozdziałach (Magia osobista, Boska Magia i Czarownictwo). Ale dla ułatwienia koszty są podsumowane w poniższej tabeli.
 
-***Summary of Growth Costs***
+_**Podsumowanie kosztów rozwoju**_
 
-| **Cost** | **Growth** |
+| **Koszt** | **Rozwój** |
 | --- | --- |
-| One growth point | +5% to Skill |
-| Five growth points | +1 to any characteristic except SIZ |
-| One growth point per magnitude | Learn a Personal Magic spell |
-| Two growth points per magnitude | Learn a spell or an increase the magnitude of a Divine Magic spell |
-| Three growth points | Learn a Sorcery Spell |
+| 1 punkt rozwoju | +5% do Umiejętności |
+| 5 punktów rozwoju | +1 do dowolnej charakterystyki, oprócz SIZ |
+| 1 punkt rozwoju za Magnitudę | Nauka zaklęcia Magii osobistej |
+| 2 punkty rozwoju za Magnitudę | Nauka zaklęcia lub zwiększenie magnitudy zaklęcia Boskiej Magii |
+| 3 punkty rozwoju | Nauka zaklęcia Czarownictwa |
 
-### Improving Outside of Quests: Practice And Research
+### Rozwój poza Przygodą: Praktyka i Badania
 
-The characters may often experience long stretches of downtime between Quests. Group members may need to heal from wounds suffered during the last Quest, the characters may engage in some activity that takes time, or life may return to normal until the next danger to face the player characters appears.
+Postacie mogą doświadczać długich czasów przestoju między przygodami. Członkowie grupy mogą potrzebować wyleczenia ran otrzymanych w poprzedniej Przygodzie, postacie mogą zaangażować się w aktywności, które zabierają czas, lub ich życie może wrócić do normalności dopóki nie pojawi się nowe niebezpieczeństwo.
 
-During such downtime, the characters may improve their characters. The players might request downtime between Quests to learn new skills, and it is up to the Referee to determine if this is appropriate.
+Podczas takiego przestoju, gracze mogą ulepszać swoje postacie. Gracze mogą poprosić o przestój pomiędzy przygodami, żeby nauczyć się nowych Umiejętności, a decyzja, czy jest to zasadne, zależy od Arbitra.
 
-For every three months of practice or research, a character may gain one growth point, which they can spend on growth. Note skills can only increase by +5% per downtime period.
+Za każde 3 miesiące praktyki i badań postać może zyskać 1 punkt rozwoju, który może wydać na rozwój. Zauważ, że Umiejętności mogą zostać zwiększone tylko o +5% na 1 przestój.
 
-### Improving in Magical Rank
+### Ulepszanie Rangi w Magii
 
-There are growth point costs when a character increases their rank in their religions and in sorcery, and when they become a specialist caster using Personal Magic—explained in more detail in the relevant chapters, along with the benefits.
+Istnieją koszty punktów rozwoju, kiedy postać zwiększa swoją rangę w swojej religii albo czarownictwie, oraz kiedy stają się specjalistą magiem używającym Magii osobistej - wyjaśnione szerzej w odpowiednich rozdziałach, łącznie z korzyściami.
 
-### Unlearning Spells and Changing Magical Path
+### Oduczanie się zaklęć i zmiana ścieżki magii
 
-Suppose characters change religions or even magic path. In that case, they may want to free up previously learnt magic spells, to learn a more powerful spell. For example, a character might change spells when they graduate from being Personal Magic users to users of Sorcery or Divine Magic, or learn the Divine Magic of their new religion if they change faith.
+Przypuśćmy że postać zmienia religię lub nawet ścieżkę magii. W takim wypadku, gracz może chcieć pozbyć się poprzednio nauczonych zaklęć, żeby nauczyć się zaklęć potężniejszych. Na przykład, postać może zmienić zaklęcia, kiedy awansuje z użytkownika Magii osobistej na użytkownika Boskiej Magii lub Czarownictwa; lub uczy się Boskiej Magii swojej nowej religii, jeśli zmienia religię.
 
-Characters may do this during downtime between adventures. The player describes how their character is spending time unlearning the spell and then, as long as they have a teacher or source of the new spell, they can learn it. Also, extra growth points from the character's current pool are added to the growth points freed up by unlearning the spell, to make up the total growth points needed to learn the new spell.
+Postacie mogą to zrobić podczas przestoju między przygodami. Gracz opisuje jak postać spędza czas oduczając się zaklęcia, a potem, jeśli ma nauczyciela lub źródło nowego zaklęcia, może się go nauczyć. Ponadto, aby uzupełnić całkowitą liczbę punktów wzrostu potrzebnych do nauczenia się nowego zaklęcia, do punktów wzrostu uwolnionych w wyniku oduczenia się zaklęcia, dodaje się punkty wzrostu z aktualnej puli postaci.
 
-Also, they may return the growth points they spent to become a specialist caster (such as Shaman, Wise, Priest or Adept). They can then spend this growth on spells, or more likely on becoming a specialist caster in their new magical path.
-
+Także, mogą im zostać zwrócone punkty, które wydali, żeby zostać magiem specjalistą (takim jak Szaman, Mędrzec, Kapłan czy Adept). Te punkty mogą być wydane na zaklęcia, lub co bardziej prawdopodobne na zostanie magiem specjalistą na swojej nowej ścieżce magii.
