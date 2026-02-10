@@ -1,3 +1,7 @@
+New Codeberg repo
+-----------------
+https://codeberg.org/plyr0/OQ3SRDMarkdown
+
 OpenQuest 3rd Edition System Resource Document
 ----------------------------------------------
 Here it is, the OpenQuest 3rd Edition rules stripped down to their bare essentials. It’s also available online at openquestrpg.com/srd
